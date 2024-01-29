@@ -27,7 +27,7 @@ body {
 .qrCodeContainer {
     background-color: var(--White);
     width: 275px;
-    height: 410px;
+    height: 450px;
     border-radius: 16px;
     padding: 12px;
 }
